@@ -4,7 +4,9 @@
 
 
  ✍🏻👩🏼‍💻📧📚🗒️  PROJECTS: 
-      ✧ ✧ Portfolio website:
+      
+  ✧ ✧ Portfolio website:
+  
   🔭 Description: Using HTML5, CSS3, SASS, React, , I'm now working on  my personal portfolio website and other fascinating projects. 
        
    ☞ Languages:✿❀ I'm proficient in business communication in both Swedish and English.
