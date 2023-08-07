@@ -16,10 +16,11 @@
     On a rainy day, playing tennis and reading novels by the river is a pleasant recreational activity. Chocolates are also always appreciated.  🏕️🏓😊😊. 
 
   📫 🇸🇪 Reach me at my e-mail: ffatimairshad@outlook.com 
-💬 
- linkedin: https://www.linkedin.com/in/fatima-irshad-/
 
-   -- Open for ne challanges and  oppertunities 🙂
+
+💬 linkedin: https://www.linkedin.com/in/fatima-irshad-/
+
+   -- Open for new challanges and opportunities 🙂
 
 
 
