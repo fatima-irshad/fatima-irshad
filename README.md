@@ -53,3 +53,4 @@ I'm proficient in business level communication in both Swedish and English.
 
 📈 GitHub Stats  <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatima-irshad&layout=compact)
+
