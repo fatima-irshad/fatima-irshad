@@ -1,3 +1,6 @@
+
+
+![_Black and Green Futuristic Technology LinkedIn Banner](https://github.com/fatima-irshad/fatima-irshad/assets/102471802/13b8487d-658c-4e39-8e42-9c5ea6d370cd)
 <h3 align="center">
 Hi there, I'm Fatima 👋
 </h3>
@@ -5,6 +8,7 @@ Hi there, I'm Fatima 👋
 <h2 align="center">
 I'm a Front-end Web Developer 💻!
 </h2> 
+
 
  I enjoy the entire process of developing creative websites. I like to take pictures and create videos.
  
